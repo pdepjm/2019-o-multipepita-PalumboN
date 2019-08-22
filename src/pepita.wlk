@@ -25,9 +25,3 @@ object alpiste {
 		gramos = nuevosGramos
 	}	
 }
-
-object manzana {
-	method energiaQueOtorga() { 
-		return 50
-	}	
-}
